@@ -1,0 +1,12 @@
+Version 1.0.0.1
+- Minimum Viable Product. The Program can import EHM files (players, stats, staff) and display data from the created databases. 
+
+Version 1.0.0.2
+- Minor bug fixes
+
+Version 1.0.0.3
+- Altered loading procedures on the League to be called by its own command rather than on initialization. 
+- Removed the MainMenu form as it now served no purpose that the League form could not. 
+- Changed the Import form call to a ShowDialog method, and have it exit when import completed. 
+- Added update logs, and growing to do list for managing new tasks. 
+- Added sample database & ehm files

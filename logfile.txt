@@ -1,0 +1,13 @@
+Creating League Database.
+SQL error occured whiel adding record 3498. Error Follows
+_____________________________________________________
+SQL logic error
+near ")": syntax error
+Data mismatch, deleted line(s) likely.
+_____________________________________________________
+SQL error occured whiel adding record 3499. Error Follows
+_____________________________________________________
+SQL logic error
+near ")": syntax error
+Data mismatch, deleted line(s) likely.
+_____________________________________________________
