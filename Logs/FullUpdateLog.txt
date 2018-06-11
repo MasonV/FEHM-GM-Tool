@@ -10,3 +10,9 @@ Version 1.0.0.3
 - Changed the Import form call to a ShowDialog method, and have it exit when import completed. 
 - Added update logs, and growing to do list for managing new tasks. 
 - Added sample database & ehm files
+
+Version 1.0.0.4
+- Fixed stats/player ID mismatch
+- Created public GetFilePathFromUser procedure
+- Resolved Import button functionality to be import type generalized as it was focused on file imports
+- Programmed Basic HTML Import Functionality. Still needs to be matched to file import datastructure.

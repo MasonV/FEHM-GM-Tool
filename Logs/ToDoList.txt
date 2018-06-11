@@ -18,3 +18,4 @@ Minor Revisions
 - Autosize datatables
 - Doublecheck database field type are correct
 - Change player/staff id to key fields.
+- Change all folderbrowserdialog references to FileManagement class references
