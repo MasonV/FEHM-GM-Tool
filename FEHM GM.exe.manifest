@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FEHM GM.exe" size="374704">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FEHM GM.exe" size="371632">
       <assemblyIdentity name="FEHM GM" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pbicVOyqlEtv+wtP6YSQbqglgRSGhRWJULQ/wLALxY0=</dsig:DigestValue>
+        <dsig:DigestValue>7YUoHJsfKN2ZNLnPRUbUztTK84bMAjLC3IWlSVQj+yE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -97,19 +97,55 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rM/emDKRUdFtBfHl/CE3jsKTi9zDfpxyh9SrqCVOEbA=</dsig:DigestValue>
+        <dsig:DigestValue>D1iCLSkO/nBbwoqOF9sUXR7WjVAqovq0N1BqwnJw1mE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NLog.dll" size="696320">
-      <assemblyIdentity name="NLog" version="4.0.0.0" publicKeyToken="5120E14C03D0593C" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Serilog.dll" size="118272">
+      <assemblyIdentity name="Serilog" version="2.0.0.0" publicKeyToken="24C2F752A8E58A10" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>nKocyJeQfnPPTP/DzhthkBa7kN24ZirbMtTZENd8+yk=</dsig:DigestValue>
+        <dsig:DigestValue>58dSj4qSCYiGK4wi0K5MQN9oJDMngMHOxB2E/mM7a+0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Serilog.Formatting.Compact.dll" size="8192">
+      <assemblyIdentity name="Serilog.Formatting.Compact" version="1.0.0.0" publicKeyToken="24C2F752A8E58A10" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gQd86Gc5M9EowwUrq7sJWUtkEcxz8U3LkbIsyd7Nfag=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Serilog.Sinks.Console.dll" size="32256">
+      <assemblyIdentity name="Serilog.Sinks.Console" version="3.1.1.0" publicKeyToken="24C2F752A8E58A10" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3tO1e2TspHnyplmiROTEA+v7g6mpswztiTwUXnev/Sk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Serilog.Sinks.File.dll" size="26112">
+      <assemblyIdentity name="Serilog.Sinks.File" version="2.0.0.0" publicKeyToken="24C2F752A8E58A10" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ha2FMK3B3sO5fyB0xyC4FSi6XqbHJ04amKkGMEvM0S8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -121,7 +157,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>l9ivGJPZoRCHYHPYYUpsXd0vBkdlu45j4yuYTglS90g=</dsig:DigestValue>
+        <dsig:DigestValue>D/0ve+BVYMpriUlx1b7w6c+3fpkHqhaIhKi5r4mo7lY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

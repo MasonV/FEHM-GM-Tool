@@ -16,3 +16,13 @@ Version 1.0.0.4
 - Created public GetFilePathFromUser procedure
 - Resolved Import button functionality to be import type generalized as it was focused on file imports
 - Programmed Basic HTML Import Functionality. Still needs to be matched to file import datastructure.
+
+Version 1.0.0.5
+- Fixed Tab indexing on import form.
+- Refactored the data structure of batch reading to take into account file structure allowing for better data validation. 
+- Slight Redesign to the SQLightFrame behaviour. Strings can be now directly passed into the function without having to quote them. 
+- Removed debugger text boxes on Import Form
+- Error Logging added using serilog
+- Added errorlogging for everything in the ImportForm except for the HTML File Importer as that 
+- Rewrote a lot of the FileImporter for the .ehm files. The section is a lot more readable andmaintainable. 
+- Moving tracking of project development tasks to Github/projects
