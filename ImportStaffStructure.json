@@ -1,0 +1,233 @@
+﻿{
+    "row0": [
+        {
+            "Name": "Psychology",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Discipline",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "PublicRelations",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "ScoutOff",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row1": [
+        {
+            "Name": "ScoutDEF",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "ScoutG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "HockeyTactics",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Motivation",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row2": [
+        {
+            "Name": "Rehabilitation",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Reliability",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "UK1",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "UK2",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row3": [
+        {
+            "Name": "Nationality",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "BirthYear",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "BirthMonth",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "BirthDay",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row4": [
+        {
+            "Name": "ScoutingTeam",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Shortlist",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "ScoutingCountry",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row5": [
+        {
+            "Name": "Team",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Salary",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Position",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "PreferredPosition",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "UK3",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row6": [
+        {
+            "Name": "Wins",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Loses",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Ties",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row7": [
+        {
+            "Name": "Reputation",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "CupsWon",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Years",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row8": [
+        {
+            "Name": "FirstName",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "LastName",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row9": [
+        {
+            "Name": "UK4",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row10": [
+        {
+            "Name": "Version",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "VersionDate",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row11": [
+        {
+            "Name": "UK5",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row12": [
+        {
+            "Name": "UK6",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "UK7",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "UK8",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "UK9",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "UK10",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ]
+}

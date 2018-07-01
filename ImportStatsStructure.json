@@ -1,0 +1,947 @@
+﻿{
+    "row0": [
+        {
+            "Name": "JR_GP",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Goals",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Assists",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_PPG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_SHG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_GWG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row1": [
+        {
+            "Name": "JR_Hits",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Hits_taken",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_IT",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Faceoffs",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Faceoffs_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Shots_Or_Saves",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_PM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_PIM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_UK1",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Junior_team",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Playoff_Season_PP_Assists",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Last_Game_IT",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row2": [
+        {
+            "Name": "JR_GA",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Shutouts",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Wins",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Losses",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_OTL",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Ties",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row3": [
+        {
+            "Name": "JR_Giveaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Takeaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_ShotsBlocked",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Fights",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "JR_Fights_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row4": [
+        {
+            "Name": "NHL_GP",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Goals",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Assists",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_PPG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_SHG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_GWG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row5": [
+        {
+            "Name": "NHL_Hits",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Hits_Taken",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_IT",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Faceoffs",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Faceoffs_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Shots_Or_Saves",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_PM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_PIM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_UK2",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_UK3",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Player_Option",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Team_Option",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row6": [
+        {
+            "Name": "NHL_GA",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Shutouts",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Wins",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Losses",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_OTL",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Ties",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row7": [
+        {
+            "Name": "NHL_Giveaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Takeaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_ShotsBlocked",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Fights",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHL_Fights_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row8": [
+        {
+            "Name": "Farm_GP",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Goals",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Assists",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_PPG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_SHG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_GWG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row9": [
+        {
+            "Name": "Farm_Hits",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Hits_Taken",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_IT",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Faceoffs",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Faceoffs_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Shots_Or_Saves",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_PM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_PIM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_UK4",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_UK5",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Season_PP_Assists",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_IT_5_GP_ago",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row10": [
+        {
+            "Name": "Farm_GA",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Shutouts",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Wins",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Losses",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_OTL",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Ties",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row11": [
+        {
+            "Name": "Farm_Giveaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Takeaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_ShotsBlocked",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Fights",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Farm_Fights_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row12": [
+        {
+            "Name": "NHLC_GP",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Goals",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Assists",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_PPG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_SHG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_GWG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row13": [
+        {
+            "Name": "NHLC_Hits",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Hits_Taken",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_IT",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Faceoffs",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Faceoffs_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Shots_Or_Saves",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_PM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_PIM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_UK6",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_UK7",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_NHL_Season_SH_Assistss",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_IT_4_GP_ago",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row14": [
+        {
+            "Name": "NHLC_GA",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Shutouts",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Wins",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Losses",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_OTL",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Ties",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row15": [
+        {
+            "Name": "NHLC_Giveaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Takeaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_ShotsBlocked",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Fights",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "NHLC_Fights_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row16": [
+        {
+            "Name": "Playoffs_GP",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Goals",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Assists",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_PPG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_SHG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_GWG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row17": [
+        {
+            "Name": "Playoffs_Hits",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Hits_Taken",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_IT",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Faceoffs",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Faceoffs_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Shots_Or_Saves",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_PM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_PIM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_UK8",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_UK9",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoff_Season_SH_Assistss",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_IT_3_GP_ago",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row18": [
+        {
+            "Name": "Playoffs_GA",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Shutouts",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Wins",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Losses",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_OTL",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Ties",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row19": [
+        {
+            "Name": "Playoffs_Giveaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Takeaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_ShotsBlocked",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Fights",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Playoffs_Fights_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row20": [
+        {
+            "Name": "Int_GP",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Goals",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Assists",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_PPG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_SHG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_GWG",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row21": [
+        {
+            "Name": "Int_Hits",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Hits_Taken",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_IT",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Faceoffs",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Faceoffs_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Shots_Or_Saves",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_PM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_PIM",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Qualifying_Offer",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_National_Team",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_UK10",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_IT_2_GP_ago",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row22": [
+        {
+            "Name": "Int_GA",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Shutouts",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Wins",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Losses",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_OTL",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Ties",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row23": [
+        {
+            "Name": "Int_Giveaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Takeaways",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_ShotsBlocked",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Fights",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Int_Fights_Won",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ],
+    "row24": [
+        {
+            "Name": "InjuryTime",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Injured",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "Morale",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "UK11",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        },
+        {
+            "Name": "ID",
+            "DataType": "TEXT",
+            "Constraint": "Default '0'"
+        }
+    ]
+}

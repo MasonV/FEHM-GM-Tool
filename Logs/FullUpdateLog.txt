@@ -26,3 +26,10 @@ Version 1.0.0.5
 - Added errorlogging for everything in the ImportForm except for the HTML File Importer as that 
 - Rewrote a lot of the FileImporter for the .ehm files. The section is a lot more readable andmaintainable. 
 - Moving tracking of project development tasks to Github/projects
+
+Version 1.0.0.6
+- The HTML Importing functionality is less refactored and moreso re-designed.
+- HTML importing will import data to the same database as  the file import
+- data tables structure set with default values. 
+- Error logging added all throughout HTML Import. 
+- Some edgecases (such as empty rows) were resolved, but others still need to be fixed and were added to the tasklist. 

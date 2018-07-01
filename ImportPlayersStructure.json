@@ -1,0 +1,577 @@
+﻿{
+    "row0": [
+        {
+            "Name": "ID",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SH",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "PL",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "ST",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "CH",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "PO",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "HI",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SK",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "EN",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "PE",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "FA",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row1": [
+        {
+            "Name": "LE",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "POT",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "CON",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "GRE",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "FI",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Click",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Team",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Pos",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Country",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Handed",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row2": [
+        {
+            "Name": "BirthYear",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "BirthDay",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "BirthMonth",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Salary",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Years",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "DraftYear",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "DraftRound",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "DraftTeam",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Rights",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row3": [
+        {
+            "Name": "ThisWeekGP",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "TWG",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "TWA",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "TWGWG",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row4": [
+        {
+            "Name": "ThisMonthGP",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "TMG",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "TMA",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "TMGWG",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row5": [
+        {
+            "Name": "RecordG",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "RA",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "RP",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "NTC",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "TwoWay",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "ContractOptions",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row6": [
+        {
+            "Name": "Status",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Rookie",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "ConsideringOffer",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "TeamOffering",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "OfferTime",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Injury",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row7": [
+        {
+            "Name": "ScoutReport1",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR2",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR3",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR4",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR5",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR6",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR7",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR8",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR9",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR10",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row8": [
+        {
+            "Name": "SR11",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR12",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR13",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR14",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR15",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR16",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR17",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR18",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR19",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR20",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row9": [
+        {
+            "Name": "SR21",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR22",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR23",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR24",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR25",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR26",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR27",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR28",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR29",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SR30",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row10": [
+        {
+            "Name": "StreakG",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SP",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "TotalGP",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "SuspendedGP",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Training",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Weight",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "Height",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "OrganizationalStatus",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row11": [
+        {
+            "Name": "BestStreakGP",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "BSGWG",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "BSA",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "BSP",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "BSG",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row12": [
+        {
+            "Name": "Blankline",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row13": [
+        {
+            "Name": "FirstName",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "LastName",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row14": [
+        {
+            "Name": "Performance",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row15": [
+        {
+            "Name": "Drafted",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row16": [
+        {
+            "Name": "Ceilings",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row17": [
+        {
+            "Name": "Version1",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row18": [
+        {
+            "Name": "Version2",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ],
+    "row19": [
+        {
+            "Name": "Attitude",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "APOS",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "NHLRights",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "InjuryProneness",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        },
+        {
+            "Name": "OVEDraft",
+            "DataType": "TEXT",
+            "Constraint": "DEFAULT `0`"
+        }
+    ]
+}

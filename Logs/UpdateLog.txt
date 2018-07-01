@@ -1,9 +1,6 @@
-Version 1.0.0.5
-- Fixed Tab indexing on import form.
-- Refactored the data structure of batch reading to take into account file structure allowing for better data validation. 
-- Slight Redesign to the SQLightFrame behaviour. Strings can be now directly passed into the function without having to quote them. 
-- Removed debugger text boxes on Import Form
-- Error Logging added using serilog
-- Added errorlogging for everything in the ImportForm except for the HTML File Importer as that 
-- Rewrote a lot of the FileImporter for the .ehm files. The section is a lot more readable andmaintainable. 
-- Moving tracking of project development tasks to Github/projects
+Version 1.0.0.6
+- The HTML Importing functionality is less refactored and moreso re-designed.
+- HTML importing will import data to the same database as  the file import
+- data tables structure set with default values. 
+- Error logging added all throughout HTML Import. 
+- Some edgecases (such as empty rows) were resolved, but others still need to be fixed and were added to the tasklist. 
